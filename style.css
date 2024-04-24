@@ -90,6 +90,11 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--verde);
+    text-transform: uppercase;
+}
 
 .contador{
     display: flex;
